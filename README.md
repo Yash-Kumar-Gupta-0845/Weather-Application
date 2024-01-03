@@ -1,6 +1,20 @@
-# weather_app
+<H3> Weather App using Flutter </H3>
 
-A new Flutter project.
+A new Flutter project which is related to Weather application.
+
+- ⚡⚡⚡ Flutter desktop application full of fantastic features like:- **Weather App** ⚡⚡⚡
+
+- ⚡ Technologies used **Flutter, Dart, API**
+
+- ⚡ Display real time data **Real Time**
+
+- ⚡ Optimized action **Display within seconds**
+  
+- ⚡ Just gives the city name **Easy to use**
+  
+- ⚡ Fetch through API **OpenWeather API**
+
+- ⚡ Labelled User Interface **Hurry! I designed easy interface**
 
 ## Getting Started
 
